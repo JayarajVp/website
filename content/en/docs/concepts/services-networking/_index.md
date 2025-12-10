@@ -1,6 +1,6 @@
 ---
 title: "Services, Load Balancing, and Networking"
-weight: 60
+weight: 80
 description: >
   Concepts and resources behind networking in Kubernetes.
 ---
